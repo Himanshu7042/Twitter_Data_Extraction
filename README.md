@@ -15,7 +15,7 @@ Make sure you have the required libraries installed in your Python environment. 
 Run the code cell containing the script. A Chrome browser window will open, prompting you to enter your Twitter ID and password within approximately 1 minute.
 
 ### Step 4: Data Extraction
-Sit back and relax! The script will automatically fetch the last around 850 posts from the specified Twitter account. The data will be loaded into a Pandas DataFrame.
+Sit back and relax!(for 5 minutes) The script will automatically fetch the last around 850 posts from the specified Twitter account. The data will be loaded into a Pandas DataFrame.
 
 ### Step 5: Save to CSV
 The extracted data will be saved to a CSV file named "twitter_data.csv" in the same directory as your script. You can now use this CSV file for further analysis or visualization.
