@@ -4,7 +4,7 @@ This tool allows you to easily extract data from a Twitter account by providing 
 
 ## Usage Instructions
 ### Step 1: Prerequisites
-Make sure you have the required libraries installed in your Python environment. You can install them using the following commands: `pip install pandas selenium`
+Make sure you have the required libraries installed in your Python environment. You can install them using the following commands: `pip install pandas selenium BeautifulSoup`
 
 ### Step 2: Run the Code
 1. Open your Jupyter environment or any Python environment of your choice.
